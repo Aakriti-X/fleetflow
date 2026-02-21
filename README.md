@@ -17,11 +17,59 @@ To create a digital platform that manages:
 
 🛠 Features Implemented
 
--Vehicle Registry with capacity & status management
--Driver Management with license expiry validation
--Trip Creation with overload prevention rule
--Automatic status updates (Available / On Trip / In Shop)
--Expense logging and total cost calculation
+🔹 1. Command Center
+Real-time fleet status distribution
+Group status overview
+Central monitoring dashboard for operations
+
+🔹 2. Fleet Map
+Real-time vehicle tracking
+Location-based monitoring
+Improved route visibility and coordination
+
+🔹 3. Vehicle Registry
+Centralized database of fleet vehicles
+Vehicle status tracking
+Driver assignment records
+Organized fleet documentation
+
+🔹 4. Trip Dispatcher
+Create and manage trips efficiently.
+Trip Creation Includes:
+Select available vehicle
+Assign available driver
+Define origin and destination
+Add cargo description
+Enter cargo weight (kg)
+Set expected revenue
+Set initial status (Draft/Active/etc.)
+This reduces manual coordination and ensures proper scheduling.
+
+🔹 5. Maintenance Logs
+Track service history
+Log repairs
+Monitor maintenance schedules
+Reduce unexpected breakdowns
+
+🔹 6. Driver Performance
+Monitor driver safety metrics
+Track compliance
+Analyze performance indicators
+Promote safer driving practices
+
+🔹 7. Analytics & Reporting
+Operational performance insights
+Fleet utilization metrics
+Cost analysis
+Export reports in:
+CSV format
+PDF format
+
+🔹 8. Smart Filters & Controls
+Vehicle type filtering
+Region-based filtering
+Notifications system
+User profile management
 
 🔁 Workflow
 
