@@ -1,16 +1,42 @@
-# React + Vite
+🚚 FleetFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Odoo x Gujarat Vidyapith Hackathon '26 Submission
 
-Currently, two official plugins are available:
+📌 Problem Statement
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build a centralized, rule-based fleet management system to replace manual logbooks and improve vehicle tracking, driver compliance, trip management, and operational cost monitoring.
 
-## React Compiler
+🎯 Objective
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+To create a digital platform that manages:
+-Vehicles
+-Drivers
+-Trip dispatch
+-Maintenance logs
+-Fuel & expense tracking
 
-## Expanding the ESLint configuration
+🛠 Features Implemented
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-Vehicle Registry with capacity & status management
+-Driver Management with license expiry validation
+-Trip Creation with overload prevention rule
+-Automatic status updates (Available / On Trip / In Shop)
+-Expense logging and total cost calculation
+
+🔁 Workflow
+
+-Add Vehicle
+-Add Driver
+-Create Trip (Cargo validated)
+-Complete Trip (Status updated)
+-Log Expenses
+
+👩‍💻 Team
+Members:
+Aakriti Singh
+Preeti Mudaliar
+Aayushi Patel
+Khushi Joshi
+
+📄 Note
+Developed as an MVP under hackathon time constraints focusing on strong validation logic and clean workflow design.
