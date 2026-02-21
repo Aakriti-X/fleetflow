@@ -80,11 +80,14 @@ User profile management
 -Log Expenses
 
 👩‍💻 Team
+
 Members:
+
 Aakriti Singh
 Preeti Mudaliar
 Aayushi Patel
 Khushi Joshi
 
 📄 Note
+
 Developed as an MVP under hackathon time constraints focusing on strong validation logic and clean workflow design.
